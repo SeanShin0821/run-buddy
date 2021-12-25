@@ -31,6 +31,7 @@
     background-attachment: fixed;
     background-position: 80%;
     z-index: 9999;
+    justify-content: space-between;
   }
   
   header h1 {
